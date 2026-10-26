@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-04-14 10:35-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pt-BR\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/pages/_home/index.tsx:85
+msgid "4 minute read"
+msgstr "Leitura de 4 minutos"
+
+#: src/pages/_home/index.tsx:67
+msgid "5 minute read"
+msgstr "Leitura de 5 minutos"
+
+#: src/pages/_home/index.tsx:103
+msgid "6 minute read"
+msgstr "Leitura de 6 minutos"
+
+#: src/pages/_home/index.tsx:57
+#: src/pages/_home/index.tsx:75
+#: src/pages/_home/index.tsx:93
+#: src/pages/_home/index.tsx:111
+#: src/pages/_home/index.tsx:117
+#: src/pages/_home/index.tsx:123
+#: src/pages/_home/index.tsx:129
+#: src/pages/_home/index.tsx:135
+#: src/pages/_home/index.tsx:141
+msgid "April 15, 2026"
+msgstr "15 de abril de 2026"
+
+#: src/pages/_home/index.tsx:136
+msgid "Boneyard skeletons from real layout"
+msgstr "Skeletons do Boneyard a partir do layout real"
+
+#: src/pages/_home/index.tsx:102
+msgid "By locale workflow"
+msgstr "Por fluxo de localização"
+
+#: src/pages/_home/index.tsx:84
+msgid "By routing system"
+msgstr "Por sistema de rotas"
+
+#: src/pages/_home/index.tsx:66
+msgid "By starter front"
+msgstr "Por Starter front"
+
+#: src/pages/_home/index.tsx:119
+msgid "Components stay typed from props to route boundaries so product work is easier to review"
+msgstr "Componentes permanecem tipados das props aos limites de rota para facilitar a revisão do produto"
+
+#: src/pages/_home/index.tsx:206
+msgid "Contact"
+msgstr "Contato"
+
+#: src/pages/_home/index.tsx:142
+msgid "Design tokens from globals.css"
+msgstr "Tokens de design de globals.css"
+
+#: src/pages/_home/index.tsx:565
+msgid "Explore stack"
+msgstr "Explorar stack"
+
+#: src/pages/_home/index.tsx:56
+msgid "Front"
+msgstr "Front"
+
+#: src/pages/_home/index.tsx:131
+msgid "Global state remains small, explicit, and simple to update without spreading mutation logic through the UI"
+msgstr "O estado global permanece pequeno, explícito e simples de atualizar sem espalhar lógica de mutação pela UI"
+
+#: src/pages/_home/index.tsx:80
+msgid "Keeping navigation <0>typed</0> from the first page"
+msgstr "Mantendo a navegação <0>tipada</0> desde a primeira página"
+
+#: src/pages/_home/index.tsx:137
+msgid "Loading states can match the final interface and reduce jumps while data arrives"
+msgstr "Estados de carregamento podem corresponder à interface final e reduzir saltos enquanto os dados chegam"
+
+#: src/pages/_home/index.tsx:92
+#: src/pages/_home/index.tsx:203
+msgid "Locales"
+msgstr "Locales"
+
+#: src/pages/_home/index.tsx:78
+msgid "Open planning pages for application routes"
+msgstr "Páginas de planejamento abertas para rotas da aplicação"
+
+#: src/components/not-found.tsx:6
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: src/pages/_home/index.tsx:246
+#: src/pages/_home/index.tsx:261
+msgid "Pinned template"
+msgstr "Template fixado"
+
+#: src/pages/_home/index.tsx:190
+msgid "Primary navigation"
+msgstr "Navegação principal"
+
+#: src/pages/_home/index.tsx:96
+msgid "Product interface prepared for translation work"
+msgstr "Interface de produto preparada para trabalho de tradução"
+
+#: src/pages/_home/index.tsx:462
+msgid "Programs must be written for people to read, and only incidentally for machines to execute"
+msgstr "Programas devem ser escritos para pessoas lerem, e apenas incidentalmente para máquinas executarem"
+
+#: src/pages/_home/index.tsx:118
+msgid "React with strict TypeScript"
+msgstr "React com TypeScript estrito"
+
+#: src/pages/_home/index.tsx:447
+msgid "Read template note"
+msgstr "Ler nota do template"
+
+#: src/pages/_home/index.tsx:74
+#: src/pages/_home/index.tsx:200
+msgid "Routes"
+msgstr "Routes"
+
+#: src/pages/_home/index.tsx:518
+msgid "See notes"
+msgstr "Ver notas"
+
+#: src/pages/_home/index.tsx:125
+msgid "Server data has a clear home for loading, errors, cache updates, and optimistic mutations"
+msgstr "Dados do servidor têm um lugar claro para carregamento, erros, atualizações de cache e mutações otimistas"
+
+#: src/pages/_home/index.tsx:98
+msgid "Shipping <0>translation</0> work with Lingui ready"
+msgstr "Publicando trabalho de <0>tradução</0> com Lingui pronto"
+
+#: src/components/on-error.tsx:6
+msgid "Something went wrong"
+msgstr "Algo deu errado"
+
+#: src/pages/_home/index.tsx:104
+msgid "Source text starts in English, catalogs stay compiled, and Portuguese translations remain part of the development loop"
+msgstr "O texto original começa em inglês, os catálogos permanecem compilados e as traduções em português continuam no ciclo de desenvolvimento"
+
+#: src/pages/_home/index.tsx:192
+msgid "Stack"
+msgstr "Stack"
+
+#: src/pages/_home/index.tsx:556
+msgid "Start your next front end"
+msgstr "Comece seu próximo front-end"
+
+#: src/pages/_home/index.tsx:254
+msgid "Starter"
+msgstr "Starter"
+
+#: src/pages/_home/index.tsx:352
+msgid "Starter front"
+msgstr "Starter front"
+
+#: src/pages/_home/index.tsx:154
+msgid "Starter front editorial home"
+msgstr "Home editorial do Starter front"
+
+#: src/pages/_home/index.tsx:62
+msgid "Starting from a <0>structured</0> front-end template"
+msgstr "Começando por um template de front-end <0>estruturado</0>"
+
+#: src/pages/_home/index.tsx:216
+msgid "Subscribe"
+msgstr "Assinar"
+
+#: src/pages/_home/index.tsx:124
+msgid "TanStack Query for async state"
+msgstr "TanStack Query para estado assíncrono"
+
+#: src/pages/_home/index.tsx:86
+msgid "TanStack Router keeps route files predictable, code split, and connected to the shape of the product"
+msgstr "TanStack Router mantém arquivos de rota previsíveis, com code split e conectados à forma do produto"
+
+#: src/pages/_home/index.tsx:284
+msgid "Template 01"
+msgstr "Template 01"
+
+#: src/pages/_home/index.tsx:481
+#: src/pages/_home/index.tsx:511
+msgid "Template notes"
+msgstr "Notas do template"
+
+#: src/pages/_home/index.tsx:486
+msgid "Template notes include the stack, translations, and theme tokens"
+msgstr "As notas do template incluem a stack, traduções e tokens de tema"
+
+#: src/pages/_home/index.tsx:113
+msgid "The development loop starts quickly and keeps the template light while the app grows"
+msgstr "O ciclo de desenvolvimento começa rápido e mantém o template leve enquanto a aplicação cresce"
+
+#: src/pages/_home/index.tsx:68
+msgid "The template brings Vite, Bun, React, TypeScript, routing, translations, and theme tokens into one ready foundation"
+msgstr "O template reúne Vite, Bun, React, TypeScript, rotas, traduções e tokens de tema em uma base pronta"
+
+#: src/pages/_home/index.tsx:143
+msgid "The visual system stays connected to shared colors, radius values, and light or dark themes"
+msgstr "O sistema visual continua conectado a cores compartilhadas, valores de raio e temas claro ou escuro"
+
+#: src/pages/_home/index.tsx:219
+#: src/pages/_home/index.tsx:264
+#: src/pages/_home/index.tsx:356
+msgid "Toggle theme"
+msgstr "Alternar tema"
+
+#: src/pages/_home/index.tsx:49
+msgid "Use English"
+msgstr "Usar inglês"
+
+#: src/pages/_home/index.tsx:49
+msgid "Use Portuguese (Brazil)"
+msgstr "Usar português (Brasil)"
+
+#: src/pages/_home/index.tsx:559
+msgid "Use the template as a stable base for routes, state, and language"
+msgstr "Use o template como uma base estável para rotas, estado e idioma"
+
+#: src/pages/_home/index.tsx:112
+msgid "Vite and Bun for fast feedback"
+msgstr "Vite e Bun para feedback rápido"
+
+#: src/pages/_home/index.tsx:60
+msgid "Workspace prepared for a front-end project"
+msgstr "Espaço de trabalho preparado para um projeto front-end"
+
+#: src/pages/_home/index.tsx:130
+msgid "Zustand stores with Immer"
+msgstr "Stores Zustand com Immer"
