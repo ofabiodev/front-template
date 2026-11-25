@@ -5,7 +5,5 @@ export const Route = createFileRoute("/_home/")({
 })
 
 function RouteComponent() {
-  return (
-    <h1>Hello World!</h1>
-  )
+  return <h1>Hello World!</h1>
 }
