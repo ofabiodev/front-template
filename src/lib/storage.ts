@@ -1,5 +1,5 @@
-import type { TSchema, Static } from "@sinclair/typebox"
-import { Value } from "@sinclair/typebox/value"
+import type { TSchema, Static } from "typebox"
+import { Value } from "typebox/value"
 
 export const storageKeys = {
   locale: "app-locale",

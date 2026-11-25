@@ -1,5 +1,5 @@
-import { Type as t } from "@sinclair/typebox"
-import { Value } from "@sinclair/typebox/value"
+import { Type as t } from "typebox"
+import { Value } from "typebox/value"
 
 const envSchema = t.Object({
   VITE_API_URL: t.String(),

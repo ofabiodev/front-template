@@ -2,7 +2,7 @@ import { create } from "zustand"
 import { immer } from "zustand/middleware/immer"
 import { i18n } from "@lingui/core"
 import type { Messages } from "@lingui/core"
-import { Type as t } from "@sinclair/typebox"
+import { Type as t } from "typebox"
 import {
   getValidatedStorageItem,
   setStorageItem,
